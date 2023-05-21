@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Erisim_Belirleyicileri", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Public_Deneme_Class", "Public_Deneme_Class\Public_Deneme_Class.csproj", "{81D187C9-C1E1-4307-B25C-D098666C7515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleysiyon_Yapıları", "koleysiyon_Yapıları\koleysiyon_Yapıları.csproj", "{CFE26F3C-0CD0-4C4D-81E1-BC1F972AE782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection_Yapıları", "koleysiyon_Yapıları\Collection_Yapıları.csproj", "{CFE26F3C-0CD0-4C4D-81E1-BC1F972AE782}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
